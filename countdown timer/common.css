@@ -1,0 +1,22 @@
+.container-fluid{
+	text-align: center;
+	margin-top: 150px;
+}
+
+#countdown-timer{
+	font-size: 420%;
+	padding: 5px;
+}
+
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px; //change this to your desired size
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
+.thanks{
+	font-size: 400%;
+}
